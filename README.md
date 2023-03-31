@@ -25,5 +25,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 [Walk-Through Video]()
 
+[GitHub Repo](https://github.com/trizziehuynh/E-Commerce-Back-End)
+
 ![Demontration Photo](ecommerce.png)
 
