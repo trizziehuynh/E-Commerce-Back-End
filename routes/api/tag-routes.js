@@ -30,7 +30,7 @@ router.get("/:id", (req, res) => {
 
 router.post("/", (req, res) => {
   // create a new tag
-  Tag.create(req.res)
+  Tag.create(req.body)
     .then((tags) => res.status(200).json(tags))
     .catch((err) => res.status(400).json(err));
 });
