@@ -23,7 +23,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Demonstration
 
-[Walk-Through Video]()
+[Walk-Through Video](https://drive.google.com/file/d/1MMQNnx7WRmwUFpR4iUGSi4-CiPTxg8Cp/view)
 
 [GitHub Repo](https://github.com/trizziehuynh/E-Commerce-Back-End)
 
